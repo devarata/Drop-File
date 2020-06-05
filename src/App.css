@@ -1,9 +1,13 @@
+.body{
+  background-color: black;
+}
 .title {
   font-size: 2rem;
   text-align: center !important;
-  margin-top: 10%;
+  margin-top: 5%;
   color: #4aa1f3;
   font-weight: bold;
+background-color: black;
 }
 
 .content {
