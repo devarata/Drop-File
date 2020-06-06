@@ -1,13 +1,9 @@
-.body{
-  background-color: black;
-}
 .title {
   font-size: 2rem;
   text-align: center !important;
-  margin-top: 5%;
+  margin-top: 10%;
   color: #4aa1f3;
   font-weight: bold;
-background-color: black;
 }
 
 .content {
@@ -17,4 +13,8 @@ background-color: black;
   flex-direction: column;
   align-items: center;
   justify-content: center;
+}
+
+.body{
+background-color: black;
 }
